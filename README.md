@@ -1,1 +1,2 @@
 # Text-To-Speech-Converter
+Introducing our Text-to-Speech Converter app, your ultimate tool for transforming written content into natural-sounding audio. Easily convert text from documents, articles, or websites into spoken words with lifelike voices. Whether you're multitasking, learning on the go, or simply enjoying hands-free accessibility, our app delivers clear and expressive speech output. Customize voice styles, speed, and pronunciation for a tailored listening experience. Experience the convenience of having your texts come to life effortlessly.
